@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="left">🛠 Linguagem e ferramentas</h3>
+<h3 align="left">🛠 Linguagens e ferramentas</h3>
 
 ###
 
