@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Eu sou se Novo Hamburgo/RS<br><br>- 🔭 Atualmente trabalho como assistente financeiro na Arezzo;<br>- 📚 Estou estudando desenvolvimento Full Stack Web, através da Growdev;<br>- ⚡ Adoro treinar, sou apaixonado por música e sempre procuro me aprofundar ainda mais nesse universo de programação, que sou apaixonado;<br>- 💫 Já fui roteirista na escola, tive um grupo musical, participei do coral estudantil e sonho em viver dessa paixão!</p>
+<p align="left">Eu sou de Novo Hamburgo/RS<br><br>- 🔭 Atualmente trabalho como assistente financeiro na Arezzo;<br>- 📚 Estou estudando desenvolvimento Full Stack Web, através da Growdev;<br>- ⚡ Adoro treinar, sou apaixonado por música e sempre procuro me aprofundar ainda mais nesse universo de programação, que sou apaixonado;<br>- 💫 Já fui roteirista na escola, tive um grupo musical, participei do coral estudantil e sonho em viver dessa paixão!</p>
 
 ###
 
@@ -49,6 +49,6 @@
 
 ###
 
-<h3 align="left">🔥 Stats :</h3>
+
 
 ###
